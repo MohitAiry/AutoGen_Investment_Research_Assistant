@@ -1,4 +1,4 @@
-# AutoGen Investment Research Assistant (Lab 1)
+# AutoGen Investment Research Assistant
 
 This project demonstrates an advanced multi-agent system built using Microsoft AutoGen, Ollama, and ChromaDB. It features a robust Retrieval-Augmented Generation (RAG) architecture where a `ResearchAgent` drafts financial investment briefs based on precise data retrieved from ChromaDB, and a `CriticAgent` critically reviews and enforces the quality of the brief before approval.
 
@@ -509,7 +509,7 @@ if __name__ == "__main__":
 
 ---
 
-## 8. Bonus Challenges (For Advanced Students)
+## 8. Bonus Challenges
 
 Once you have the core AutoGen pipeline working, you can attempt the following bonus challenges to level up your system. Here is exactly how to implement them and how they will alter your architecture.
 
