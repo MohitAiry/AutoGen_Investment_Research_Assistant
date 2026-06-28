@@ -1,0 +1,13 @@
+Amazon.com, Inc. (AMZN) FY2024 Earnings Call Transcript
+Date: January 30, 2025
+
+OPERATOR:
+Welcome to the Amazon Q4 2024 Earnings Call.
+
+ANDY JASSY (CEO):
+For FY2024, Amazon reported $630 billion in total revenue. I'm thrilled to report that AWS revenue growth re-accelerated to 18%. This was largely driven by the launch of Amazon Bedrock and the increased adoption of our proprietary Trainium and Inferentia chips, which offer highly cost-effective alternatives to Nvidia hardware for AI model training.
+
+BRIAN OLSAVSKY (CFO):
+Our digital advertising business emerged as a massive profit center, generating $50 billion at extremely high margins. Furthermore, the COVID-era overcapacity in fulfillment centers has been fully absorbed. By shifting to a regionalized logistics network, we reached record operating margins of 8.5%.
+
+Regarding risks, we are seeing heavy competition from discount Chinese retailers like Temu and Shein, which are cutting into our lower-margin apparel and sundries retail sales volume. However, our Prime subscription base remains highly resilient.

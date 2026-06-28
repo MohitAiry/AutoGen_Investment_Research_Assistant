@@ -1,0 +1,19 @@
+NVIDIA Corporation (NVDA) FY2024 Financial Ratios & Balance Sheet Summary
+Date: February 2024
+
+1. Valuation Metrics:
+- Price-to-Earnings (P/E) Ratio: 65.8x
+- Price-to-Sales (P/S) Ratio: 38.5x
+
+2. Profitability and Return Ratios:
+- Return on Equity (ROE): 102.3%
+- Gross Margin: 75.1%
+- Operating Margin: 58.4%
+
+3. Liquidity and Solvency:
+- Current Ratio: 4.1
+- Total Long-Term Debt: $9.7 Billion
+- Cash and Cash Equivalents: $35.4 Billion
+
+4. Risk & Competition Commentary:
+The balance sheet is pristine. Operating margins are expanding due to immense pricing power for Hopper/Blackwell chips.

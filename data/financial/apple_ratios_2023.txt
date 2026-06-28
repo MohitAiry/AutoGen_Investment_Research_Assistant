@@ -1,0 +1,24 @@
+Apple Inc. (AAPL) FY2023 Financial Ratios & Balance Sheet Summary
+Date: October 2023
+
+1. Valuation Metrics:
+- Price-to-Earnings (P/E) Ratio (Trailing 12 Months): 29.5x
+- Price-to-Sales (P/S) Ratio: 7.2x
+- Enterprise Value to EBITDA (EV/EBITDA): 22.1x
+
+2. Profitability and Return Ratios:
+- Return on Equity (ROE): 171.9%. (Note: Apple's aggressively high ROE is an accounting artifact resulting from its massive share repurchase program which has driven the book value of equity very low).
+- Return on Assets (ROA): 28.5%
+- Gross Margin: 44.1%
+- Operating Margin: 29.8%
+
+3. Liquidity and Solvency:
+- Current Ratio: 0.99 (The company operates with a slightly negative working capital cycle, leveraging its immense power over suppliers).
+- Debt-to-Equity Ratio: 1.76
+- Total Long-Term Debt: $95.2 Billion
+- Cash and Cash Equivalents & Marketable Securities: $162.1 Billion
+- Net Cash Position: $66.9 Billion
+
+4. Capital Allocation:
+- Share Repurchases (FY23): $77.5 Billion
+- Dividends Paid (FY23): $15.0 Billion

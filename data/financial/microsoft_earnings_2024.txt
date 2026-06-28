@@ -1,0 +1,13 @@
+Microsoft Corporation (MSFT) FY2024 Earnings Call Transcript
+Date: July 23, 2024
+
+OPERATOR:
+Welcome to the Microsoft FY2024 Earnings Call. 
+
+SATYA NADELLA (CEO):
+Welcome. Microsoft achieved a record revenue of $245 billion in FY2024. The AI platform shift is well underway. Azure cloud growth accelerated to 28% year-over-year, as enterprise AI inferencing workloads dominated new cloud spending. 
+
+M365 Copilot is seeing unprecedented adoption. Subscription revenues for Copilot reached a staggering $5 billion annualized run rate, proving the viability of enterprise AI monetization. Overall gross margins hit a historic 70.1%.
+
+AMY HOOD (CFO):
+Our financial position is stronger than ever, but I do want to address our capital expenditures. A potential headwind is the astronomical CapEx required to secure adequate GPU compute from Nvidia and build out global data centers to sustain these AI services. CapEx exceeded $50 billion for the year. While some analysts have raised minor concerns about short-term free cash flow impacts, we view this as a generational investment that will yield returns for decades.
