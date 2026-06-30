@@ -1,0 +1,35 @@
+Apple Inc. (AAPL) Q4 2023 Earnings Call Transcript
+Date: October 26, 2023
+
+OPERATOR:
+Good day, and welcome to the Apple Q4 2023 Earnings Conference Call. Today's call is being recorded. At this time, for opening remarks and introductions, I would like to turn the call over to Tejas Gala, Director of Investor Relations and Corporate Finance. Please go ahead.
+
+TEJAS GALA:
+Thank you. Good afternoon, and thanks for joining us. Speaking first today is Apple's CEO, Tim Cook, and he'll be followed by CFO Luca Maestri. Before we begin, I want to remind everyone that our remarks today contain forward-looking statements. These statements involve risks and uncertainties that could cause actual results to differ materially. 
+
+TIM COOK (CEO):
+Thanks, Tejas. Good afternoon, everyone. Today Apple is reporting revenue of $383 billion for fiscal year 2023. While we faced an uneven macroeconomic environment, including significant foreign exchange headwinds and inflationary pressures, we executed with precision and launched our most powerful lineup ever. 
+
+We are particularly proud of the iPhone 15 lineup. The customer response to the titanium design and the new camera system on the Pro models has been phenomenal. We are currently supply-constrained on the iPhone 15 Pro and Pro Max, but we are working hard to fulfill demand. 
+
+Beyond hardware, our Services business achieved an all-time revenue record. We now have over 1 billion paid subscriptions across all the services on our platform, a staggering milestone that proves the enduring power of our ecosystem. I also want to highlight our continued commitment to the environment. We are tracking well ahead of our Apple 2030 goal to make our entire supply chain carbon neutral.
+
+LUCA MAESTRI (CFO):
+Thank you, Tim. Good afternoon, everyone. Let me provide more color on our financial performance. Total revenue for FY2023 was $383 billion. 
+
+Our Services sector was the standout performer this year. Services revenue reached $85.2 billion, representing a significant portion of our overall business. What's even more impressive is the profitability of this segment; Services delivered a gross margin of 70.8%, significantly higher than our hardware margins.
+
+Overall company gross margin for FY2023 was a very strong 44.1%, driven by a favorable product mix and cost savings in memory and logistics. 
+
+Looking at our geographic segments, Greater China continues to be a critical market for us, representing approximately 19% of our global revenue. While the smartphone market in China has seen increased domestic competition, our active installed base of devices reached a new all-time high in the region.
+
+Turning to our balance sheet, we ended the year with strong liquidity. Our long-term debt stands at around $95 billion, but when offset by our massive cash and marketable securities pile, we maintain a highly flexible and robust financial position. We returned over $25 billion to shareholders during the quarter through dividends and open market repurchases.
+
+OPERATOR:
+We will now take questions from analysts. Our first question comes from Katy Huberty at Morgan Stanley.
+
+KATY HUBERTY (MORGAN STANLEY):
+Tim, could you speak to some of the structural risks facing the App Store right now, specifically regarding the EU regulations?
+
+TIM COOK:
+Thanks, Katy. Yes, regarding the regulatory environment, we are closely monitoring the implementation of the Digital Markets Act (DMA) in the European Union. While we believe strongly in the security and privacy benefits of our integrated App Store model, we are committed to complying with local laws. This may require us to allow alternative app marketplaces in the EU, which is a risk factor we are navigating. Similarly, we are facing various US antitrust proceedings regarding our search partnerships. However, our focus remains on providing the best, most secure user experience, which we believe will continue to drive customer loyalty regardless of regulatory shifts.

@@ -1,0 +1,23 @@
+NVIDIA Corporation (NVDA) FY2023 Financial Ratios & Balance Sheet Summary
+Date: February 2023
+
+1. Valuation Metrics:
+- Price-to-Earnings (P/E) Ratio (Trailing 12 Months): 72.5x (Reflects massive future growth expectations embedded in the stock price).
+- Price-to-Sales (P/S) Ratio: 35.2x
+- Price-to-Book (P/B) Ratio: 45.1x
+
+2. Profitability and Return Ratios:
+- Return on Equity (ROE): 91.4%
+- Return on Assets (ROA): 45.2%
+- Gross Margin: 72.7%
+- Operating Margin: 54.1% (Incredible operating leverage due to software-like margins on hardware sales).
+
+3. Liquidity and Solvency:
+- Current Ratio: 3.5 (Extremely highly liquid).
+- Debt-to-Equity Ratio: 0.22
+- Total Long-Term Debt: $9.7 Billion
+- Cash and Cash Equivalents: $25.9 Billion
+- Net Cash Position: $16.2 Billion
+
+4. Risk & Competition Commentary:
+The company's balance sheet is incredibly healthy. The primary growth catalysts remain the continued adoption of generative AI by hyperscalers (Microsoft, Google, AWS). A secondary risk factor is the increasing competition from custom in-house silicon developed by these same hyperscalers (e.g., Google TPU, AWS Trainium), which could pressure margins in the long term.

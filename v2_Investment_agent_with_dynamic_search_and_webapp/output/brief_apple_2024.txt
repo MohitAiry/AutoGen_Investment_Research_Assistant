@@ -1,0 +1,37 @@
+================================================================================
+INVESTMENT BRIEF — APPLE
+Generated: 2026-06-30 08:56:31
+Status: APPROVED
+Rounds to finish: 2
+================================================================================
+
+Based on the retrieved financial context, here is a detailed investment brief for Apple Inc. (AAPL):
+
+**Executive Summary**
+
+Apple Inc. (AAPL) has reported its FY2024 earnings, showcasing a solid rebound in hardware sales driven by the successful launch of the iPhone 16 Pro and the widespread adoption of Apple Intelligence across iOS 18. The company's Services business also reached an all-time high of $95 billion, representing 23.4% of total revenue. With a strong financial performance and a diversified supply chain, Apple is well-positioned for continued growth.
+
+**Key Financial Metrics**
+
+* FY2024 Revenue: $405 billion
+* Gross Margin: 46.5%
+* Operating Margin: 30.2%
+* Return on Equity (ROE): 165.4%
+* Return on Assets (ROA): 29.2%
+* Current Ratio: 1.05
+* Total Long-Term Debt: $92.5 Billion
+* Net Cash Position: $75.3 Billion
+
+**Risk Factors**
+
+The company's hardware sales in Greater China saw a 5% decline, which remains a highly competitive market with domestic brands gaining traction. Additionally, the initial launch of the Vision Pro has transitioned into a slower, enterprise-focused adoption curve, affecting Wearables, Home, and Accessories revenue.
+
+**Growth Catalysts**
+
+* The successful launch of the iPhone 16 Pro and Apple Intelligence across iOS 18 have driven an unprecedented upgrade supercycle.
+* The expansion of manufacturing footprint in India and Vietnam significantly over the past 12 months reduces concentration risk while allowing Apple to tap into new, rapidly growing consumer markets.
+* The adoption of Apple Vision Pro is expected to drive growth in Wearables, Home, and Accessories revenue.
+
+**Preliminary Recommendation**
+
+Based on the strong financial performance and diversified supply chain, we recommend a Buy rating for Apple Inc. (AAPL). With a solid rebound in hardware sales and an all-time high in Services revenue, the company is well-positioned for continued growth. However, investors should be aware of the competitive market in Greater China and the slower adoption curve of the Vision Pro.

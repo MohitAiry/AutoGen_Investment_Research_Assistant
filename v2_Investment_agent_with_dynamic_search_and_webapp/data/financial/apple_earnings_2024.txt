@@ -1,0 +1,24 @@
+Apple Inc. (AAPL) FY2024 Earnings Call Transcript
+Date: October 24, 2024
+
+OPERATOR:
+Welcome to the Apple Q4 2024 Earnings Conference Call. I will now turn the call over to Tim Cook, CEO.
+
+TIM COOK (CEO):
+Thank you. Today we are reporting FY2024 revenue of $405 billion. This marks a solid rebound for our hardware business, driven by the incredibly successful launch of the iPhone 16 Pro and the widespread rollout of Apple Intelligence across iOS 18. Apple Intelligence has fundamentally changed how users interact with our devices, driving an unprecedented upgrade supercycle.
+
+Our Services business also hit a new all-time high of $95 billion, representing 23.4% of total revenue. 
+
+LUCA MAESTRI (CFO):
+Thank you, Tim. The $405 billion in revenue resulted in an overall gross margin of 46.5%, aided by a favorable product mix heavily weighted toward the Pro models and lower memory component costs. Services gross margin remained elite at 71%.
+
+While North America and Europe saw double-digit growth, our hardware sales in Greater China saw a 5% decline. This remains a highly competitive market with domestic brands gaining traction. Wearables, Home, and Accessories revenue remained relatively flat at $40 billion, as the initial launch of the Vision Pro transitioned into a slower, enterprise-focused adoption curve.
+
+OPERATOR:
+We will now take a question from Amit Daryanani at Evercore.
+
+AMIT DARYANANI (EVERCORE):
+Tim, can you talk about the geopolitical landscape in China and how that impacts your supply chain?
+
+TIM COOK:
+We continue to invest heavily in our Chinese supply chain, but we are also actively diversifying. We have expanded our manufacturing footprint in India and Vietnam significantly over the past 12 months. This reduces our concentration risk while allowing us to tap into new, rapidly growing consumer markets.

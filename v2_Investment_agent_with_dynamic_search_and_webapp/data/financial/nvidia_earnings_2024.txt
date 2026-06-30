@@ -1,0 +1,35 @@
+NVIDIA Corporation (NVDA) FY2024 Earnings Call Transcript
+Date: February 21, 2024
+
+OPERATOR:
+Good afternoon. My name is operator, and I will be your conference operator today. Welcome to the NVIDIA financial results conference call. I will now turn the call over to Simona Jankowski, VP of Investor Relations.
+
+SIMONA JANKOWSKI:
+Thank you. Joining us today are Jensen Huang, President and CEO, and Colette Kress, Executive Vice President and CFO. Today's call will contain forward-looking statements based on current expectations. 
+
+JENSEN HUANG (CEO):
+Thank you, Simona. Welcome everyone. Accelerated computing and generative AI have hit the tipping point. Demand is surging worldwide across companies, industries and nations. 
+
+Our Data Center platform is powered by increasingly diverse drivers — demand for data processing, training and inference from large cloud-service providers and GPU-specialized ones, as well as from enterprise software and consumer internet companies. Vertical industries — led by auto, financial services and healthcare — are now at a multibillion-dollar level.
+
+The transition from general-purpose to accelerated computing is in full swing. The Hopper architecture is driving incredible momentum, and we are preparing for the rollout of the Blackwell architecture, which will deliver another massive leap in performance. Sovereign AI—where nations are building their own sovereign large language models—is becoming a massive new demand vector. 
+
+COLETTE KRESS (CFO):
+Thank you, Jensen. Let me break down the historic financials. We continued our unprecedented growth trajectory in FY2024, reporting a massive $102.5 billion in total revenue.
+
+This was entirely driven by the Data Center segment, which surged to $85 billion. To put this in perspective, just a few years ago, our gaming segment was our largest revenue driver. Today, Data Center is the undisputed engine of our company.
+
+Gross margins remained exceptionally strong, expanding to 75.1% for the full year. This reflects the immense value customers are getting from our full-stack accelerated computing platform and the software ecosystems, like CUDA, that bind it together.
+
+Regarding our supply chain, constraints with TSMC's CoWoS (Chip-on-Wafer-on-Substrate) advanced packaging have been a limiting factor on our top-line growth. However, those constraints have slightly eased in the second half of the year, allowing us to fulfill a larger backlog of orders. 
+
+OPERATOR:
+Our first question comes from Stacy Rasgon at Bernstein.
+
+STACY RASGON (BERNSTEIN):
+Jensen, can you talk about the geopolitical risks, specifically the new US export controls to China, and how that impacts the long-term outlook?
+
+JENSEN HUANG:
+Thanks, Stacy. Yes, regulatory scrutiny and export controls are a reality we have to manage. The US government recently expanded its export restrictions, which prevents us from selling our highest-performance chips like the H100 to the Chinese market. 
+
+China historically represented about 20% to 25% of our Data Center revenue. While this is a significant geopolitical risk, we have successfully mitigated some of the damage by developing and releasing compliant chips specifically tailored for the Chinese market that adhere to the new US thresholds. Furthermore, the sheer volume of demand from North American hyperscalers and sovereign AI projects globally has more than offset any revenue gaps in China for the foreseeable future. We are also cooperating fully with the FTC and European regulators who have opened inquiries into the AI accelerator market, as we believe our market position is the result of decades of open innovation.

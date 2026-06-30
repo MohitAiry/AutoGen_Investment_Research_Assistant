@@ -1,0 +1,24 @@
+NVIDIA Corporation (NVDA) FY2023 Earnings Call Transcript
+Date: February 22, 2023
+
+OPERATOR:
+Welcome to the NVIDIA financial results conference call. I will now turn the call over to Jensen Huang, CEO.
+
+JENSEN HUANG (CEO):
+Welcome everyone. FY2023 was a transformative year. We reported total revenue of $60.9 billion, an increase of 126% year-over-year. The world is waking up to the power of generative AI. 
+
+Our Data Center segment was the primary growth engine, contributing $47.5 billion, up 217% from the previous year. This is being driven by the widespread deployment of our Hopper architecture, specifically the H100 GPUs, by hyperscalers building out AI factories.
+
+COLETTE KRESS (CFO):
+Thank you, Jensen. Gross margins expanded significantly to 72.7%, reflecting the high pricing power of our AI accelerators and the increasing attach rate of our software networking solutions.
+
+While demand is unprecedented, we are facing severe supply chain constraints. Specifically, TSMC's CoWoS packaging capacity has limited our ability to fully meet customer demand. We are working closely with our suppliers to aggressively expand capacity.
+
+OPERATOR:
+Our first question is from Vivek Arya at Bank of America.
+
+VIVEK ARYA (BofA):
+Can you discuss the potential impact of US export controls?
+
+JENSEN HUANG:
+US export controls restricting the sale of high-end chips to China pose a significant geopolitical risk. We estimate this could potentially impact up to $5 billion in future quarterly revenue if restrictions tighten further and we are unable to redesign compliant chips in time. However, global demand currently vastly outstrips supply, meaning any chips not shipped to China are immediately consumed by Western customers.

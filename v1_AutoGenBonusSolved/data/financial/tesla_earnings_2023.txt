@@ -1,0 +1,14 @@
+Tesla Inc. (TSLA) FY2023 Earnings Call Transcript
+Date: January 24, 2024
+
+OPERATOR:
+Welcome to the Tesla Q4 2023 Earnings Call. I will turn the call over to Elon Musk, CEO.
+
+ELON MUSK (CEO):
+We reported $96.8 billion in total revenue for FY2023. It was a challenging year due to a high-interest-rate macroeconomic environment which makes cars less affordable for the average consumer. To maintain our delivery volumes, we executed aggressive global price-cutting strategies. 
+
+VAIBHAV TANEJA (CFO):
+Because of these price cuts, automotive gross margins compressed significantly to 18.2%, down from over 25% the previous year. However, our debt levels remain incredibly low with a debt-to-equity ratio of just 0.08, giving us the financial resilience to survive a macroeconomic downturn that legacy automakers do not have.
+
+ELON MUSK:
+Regarding risk factors, we are facing severe production bottlenecks in scaling the Cybertruck. It is a highly complex manufacturing process. We also see general softening demand in the broader consumer EV sector. However, our growth catalysts hinge on advancements in Full Self-Driving (FSD) software and our upcoming next-generation low-cost vehicle platform, which will revolutionize manufacturing.

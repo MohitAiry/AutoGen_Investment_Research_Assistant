@@ -1,0 +1,15 @@
+Microsoft Corporation (MSFT) FY2023 Earnings Call Transcript
+Date: July 25, 2023
+
+OPERATOR:
+Welcome to the Microsoft FY2023 Earnings Call. Please welcome Satya Nadella, CEO.
+
+SATYA NADELLA (CEO):
+Thank you. We posted $211 billion in revenue for FY2023. Every customer I speak with is asking how they can apply AI to their business. Intelligent Cloud revenue grew 17% year-over-year, firmly driven by Azure's continued enterprise adoption. 
+
+The swift and aggressive integration of OpenAI's GPT models into our Office 365 suite, branded as Copilot, is fundamentally changing productivity. This is a massive future growth catalyst, signaling our intent to lead the enterprise AI revolution.
+
+AMY HOOD (CFO):
+Total gross margins expanded to 68.9%. Operating income was strong, and we continue to maintain an elite balance sheet with massive cash reserves.
+
+Regarding risk factors, the most notable challenge is the intense regulatory scrutiny from the UK CMA and US FTC regarding our $69 billion acquisition of Activision Blizzard. While we remain confident, this threatens to delay or derail our consumer gaming strategy. Furthermore, we are seeing some enterprises focus on cloud optimization rather than new workload deployment due to the macroeconomic environment.

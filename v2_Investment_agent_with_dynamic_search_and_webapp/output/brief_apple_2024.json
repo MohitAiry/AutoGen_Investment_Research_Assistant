@@ -1,0 +1,10 @@
+{
+    "ticker": "AAPL",
+    "recommendation": "Buy",
+    "key_risks": [
+        "hardware sales in Greater China saw a 5% decline",
+        "initial launch of the Vision Pro has transitioned into a slower, enterprise-focused adoption curve"
+    ],
+    "summary": "Apple Inc. (AAPL) has reported its FY2024 earnings, showcasing a solid rebound in hardware sales driven by the successful launch of the iPhone 16 Pro and the widespread adoption of Apple Intelligence across iOS 18. The company's Services business also reached an all-time high of $95 billion, representing 23.4% of total revenue. With a strong financial performance and a diversified supply chain, Apple is well-positioned for continued growth.",
+    "metrics": "FY2024 Revenue: $405 billion, Gross Margin: 46.5%, Operating Margin: 30.2%, Return on Equity (ROE): 165.4%, Return on Assets (ROA): 29.2%, Current Ratio: 1.05, Total Long-Term Debt: $92.5 Billion, Net Cash Position: $75.3 Billion"
+}

@@ -1,0 +1,13 @@
+Tesla Inc. (TSLA) FY2024 Earnings Call Transcript
+Date: January 22, 2025
+
+OPERATOR:
+Welcome to the Tesla Q4 2024 Earnings Call.
+
+ELON MUSK (CEO):
+For fiscal year 2024, Tesla reported $105 billion in revenue. Automotive margins stabilized at 19.5% following intense supply chain optimizations and a massive reduction in battery cell manufacturing costs at our Gigafactories. 
+
+A massive surprise growth catalyst this year was the Energy Generation and Storage segment. We deployed over 25 GWh of Megapacks, doubling year-over-year revenue in this high-margin division. Furthermore, the rollout of FSD Version 12, our end-to-end neural net, was a total gamechanger. It resulted in a 30% increase in software attach rates across the fleet.
+
+VAIBHAV TANEJA (CFO):
+Risks remain regarding geopolitical tariffs on Chinese EV components and increased domestic competition from legacy automakers who are finally catching up in EV production volume. However, our cost of goods sold per vehicle reached an all-time low, ensuring our structural cost advantage remains intact.

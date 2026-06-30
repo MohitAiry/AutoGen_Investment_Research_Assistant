@@ -1,0 +1,13 @@
+Amazon.com, Inc. (AMZN) FY2023 Earnings Call Transcript
+Date: February 1, 2024
+
+OPERATOR:
+Welcome to the Amazon Q4 2023 Earnings Call. Please welcome Andy Jassy, CEO.
+
+ANDY JASSY (CEO):
+Amazon reported $574 billion in revenue for FY2023. Amazon Web Services (AWS) generated $90 billion. While AWS retains its position as the dominant market leader, top-line growth slowed to 13% as enterprises focused heavily on cost optimization rather than new deployments.
+
+However, I am incredibly proud of our North American Retail operations, which swung back to profitability. We executed an extensive logistics footprint rationalization and corporate layoffs totaling over 27,000 employees to right-size the business post-COVID.
+
+BRIAN OLSAVSKY (CFO):
+A key risk factor we are monitoring is the rising threat of unionization efforts across US fulfillment centers, which could impact labor costs. Additionally, we are facing ongoing FTC antitrust lawsuits targeting our e-commerce marketplace practices and seller fees. Despite these headwinds, free cash flow improved significantly.

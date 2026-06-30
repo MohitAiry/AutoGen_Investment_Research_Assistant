@@ -1,0 +1,10 @@
+{
+    "ticker": "AAPL",
+    "recommendation": "Buy/Hold/Sell",
+    "key_risks": [
+        "high debt levels",
+        "reliance on cash reserves"
+    ],
+    "summary": "Apple Inc. is a leading technology company with a strong brand reputation and loyal customer base, but valuation multiples suggest overvaluation and high debt levels are potential risks.",
+    "metrics": "Price-to-Earnings (P/E) Ratio: 34.15x, Price-to-Sales (P/S) Ratio: 9.17x, Forward P/E: 29.32x, Return on Equity (ROE): 1.41%, Gross Margin: 47.86%, Operating Margin: 32.27%, Profit Margin: 27.15%, Current Ratio: 1.07, Total Debt: $84,710,980,016, Cash and Cash Equivalents: $68,500,800,832"
+}

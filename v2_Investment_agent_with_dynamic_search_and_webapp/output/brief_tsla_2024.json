@@ -1,0 +1,11 @@
+{
+    "ticker": "TSLA",
+    "recommendation": "Buy",
+    "key_risks": [
+        "Regulatory Uncertainty",
+        "Competition from Waymo",
+        "Liability Concerns"
+    ],
+    "summary": "Tesla, Inc. is a leading player in the electric vehicle and clean energy sectors, with high valuation and regulatory uncertainty driving its financial performance. The company's growth catalysts, such as autonomous vehicle capabilities and global partnerships, offer potential for long-term growth.",
+    "metrics": "Price-to-Earnings (P/E) Ratio: 384.8972; Price-to-Sales (P/S) Ratio: 15.802749; Forward P/E: 164.60037; Return on Equity (ROE): 0.04901; Gross Margin: 0.19065; Operating Margin: 0.04203; Profit Margin: 0.03946; Current Ratio: 2.043"
+}
